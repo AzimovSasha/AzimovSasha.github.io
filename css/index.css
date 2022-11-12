@@ -1,0 +1,17 @@
+#photo {
+    margin-left: 2vw;
+    width: 25vw;
+    height: 25vw;
+    float: left;
+}
+#name {
+    margin-left: 30vw;
+    line-height: 1.4;
+}
+#my_data {
+    height: 30vw;
+}
+.certificate_image {
+    width: 40vw;
+    height: auto;
+ }

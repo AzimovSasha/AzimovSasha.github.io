@@ -1,1 +1,3 @@
-(САЙТ)[http://azimovsasha.github.io/]
+[САЙТ][ghPages]
+
+[ghPages]: http://azimovsasha.github.io/
